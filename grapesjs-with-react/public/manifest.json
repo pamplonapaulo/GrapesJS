@@ -1,0 +1,20 @@
+{
+  "short_name": "Grapes.JS in React",
+  "name": "Grapes.JS in React",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "80x87",
+      "type": "image/png"
+    },
+    {
+      "src": "grapes.png",
+      "type": "image/png",
+      "sizes": "80x87"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
